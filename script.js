@@ -181,12 +181,8 @@ function renderQuestionCard(number, question) {
     createTitle(question.question),
   );
 
-  if (question.sub_question) {
-    card.append(createTextBlock('p', 'sub-question', question.sub_question));
-  }
-
   card.append(createImageBlock(question));
-  card.append(createChoices(question.choices, answer));
+  card.append(createChoices(question, answer));
   card.append(createExplanation(ai));
 
   return card;
@@ -234,11 +230,13 @@ function createImageBlock(question) {
   return wrap;
 }
 
-function createChoices(choices, answer) {
+function createChoices(question, answer) {
   const list = document.createElement('ol');
   list.className = 'choices';
+  const choices = getChoices(question);
+  const choiceImages = question.image_path?.choices ?? {};
 
-  for (const [key, value] of Object.entries(choices ?? {}).sort(([a], [b]) => Number(a) - Number(b))) {
+  for (const [key, value] of Object.entries(choices).sort(([a], [b]) => Number(a) - Number(b))) {
     const item = document.createElement('li');
     item.className = 'choice';
     item.classList.toggle('correct', String(key) === answer);
@@ -247,14 +245,35 @@ function createChoices(choices, answer) {
     number.className = 'choice-number';
     number.textContent = key;
 
-    const text = document.createElement('span');
-    text.textContent = value;
+    const content = document.createElement('span');
+    content.className = 'choice-content';
 
-    item.append(number, text);
+    if (choiceImages[key]) {
+      const image = document.createElement('img');
+      image.className = 'choice-image';
+      image.alt = `${key}번 선택지`;
+      image.src = `assets/${state.currentRound}/${choiceImages[key]}`;
+      image.addEventListener('error', () => {
+        content.textContent = `선택지 이미지를 찾을 수 없습니다: ${choiceImages[key]}`;
+      }, { once: true });
+      content.append(image);
+    } else {
+      content.textContent = value;
+    }
+
+    item.append(number, content);
     list.append(item);
   }
 
   return list;
+}
+
+function getChoices(question) {
+  const choices = question.choices ?? {};
+  const imageChoices = question.image_path?.choices ?? {};
+  if (question.image === true && Object.keys(imageChoices).length) return imageChoices;
+  if (Object.keys(choices).length) return choices;
+  return imageChoices;
 }
 
 function createExplanation(ai) {
