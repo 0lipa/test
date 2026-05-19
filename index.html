@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>한국사 기출 검토</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="title-row">
+      <div>
+        <h1>한국사 기출 검토</h1>
+        <p id="statusText">회차 데이터를 확인하는 중입니다.</p>
+      </div>
+      <div class="summary" id="summary"></div>
+    </div>
+
+    <section class="control-section" aria-label="회차 선택">
+      <h2>회차</h2>
+      <div class="button-grid rounds" id="roundButtons"></div>
+    </section>
+
+    <section class="control-section" aria-label="Collection 필터">
+      <h2>Collection</h2>
+      <div class="button-grid" id="collectionButtons"></div>
+    </section>
+
+    <section class="control-section" aria-label="문제 이동">
+      <h2>문제</h2>
+      <div class="button-grid question-nav" id="questionNav"></div>
+    </section>
+  </header>
+
+  <main id="questionList" class="question-list">
+    <section class="empty-state">
+      <strong>JSON 파일을 넣어주세요.</strong>
+      <span>예: <code>json/history_data_72.json</code></span>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
