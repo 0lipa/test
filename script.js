@@ -173,7 +173,7 @@ function renderQuestionCard(number, question) {
   card.className = 'question-card';
   card.id = `question-${number}`;
 
-  const answer = String(question['정답'] ?? '');
+  const answer = getAnswer(question);
   const ai = question.answer_details?.ai_explanation ?? {};
 
   card.append(
@@ -330,6 +330,10 @@ function createTextBlock(tag, className, text) {
   if (className) el.className = className;
   el.textContent = text;
   return el;
+}
+
+function getAnswer(question) {
+  return String(question.answer ?? question['정답'] ?? '');
 }
 
 function jsonPath(round) {
