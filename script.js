@@ -173,7 +173,7 @@ function renderQuestionCard(number, question) {
   card.className = 'question-card';
   card.id = `question-${number}`;
 
-  const answer = String(question['정답'] ?? '');
+  const answer = String(question['answer'] ?? '');
   const ai = question.answer_details?.ai_explanation ?? {};
 
   card.append(
