@@ -44,7 +44,8 @@
         "edited": "e6a16691-1257-49f5-afce-31610b7c46e3.png"
       },
       "image_type": "yes_artifact",
-      "answer": "3"
+      "answer": "3",
+      "typo_warnings": []
     },
     "2": {
       "question": "(가) 나라에 대한 설명으로 옳은 것은?",
@@ -88,7 +89,8 @@
         "edited": "550e1b74-6a04-4a95-8d81-b74877b303ef.png"
       },
       "image_type": "non_artifact",
-      "answer": "5"
+      "answer": "5",
+      "typo_warnings": []
     },
     "3": {
       "question": "밑줄 그은 ‘이 나라’에 대한 탐구 활동으로 가장 적절한 것은?",
@@ -133,7 +135,8 @@
         "edited": "f6b7bdec-0cf2-4602-ba91-83f6d9b2a223.png"
       },
       "image_type": "non_artifact",
-      "answer": "2"
+      "answer": "2",
+      "typo_warnings": []
     },
     "4": {
       "question": "(가) 국가의 문화유산으로 옳은 것은?",
@@ -178,7 +181,8 @@
         }
       },
       "image_type": "yes_artifact",
-      "answer": "4"
+      "answer": "4",
+      "typo_warnings": []
     },
     "5": {
       "question": "다음 대화에 나타난 왕에 대한 설명으로 옳은 것은?",
@@ -222,7 +226,8 @@
         "edited": "7dc16d40-24e4-4f89-96b5-d9139b0dd880.png"
       },
       "image_type": "non_artifact",
-      "answer": "3"
+      "answer": "3",
+      "typo_warnings": []
     },
     "6": {
       "question": "(가), (나) 사이의 시기에 있었던 사실로 옳은 것은?",
@@ -266,7 +271,8 @@
         "edited": "03609cd0-ae26-4b15-b4dd-2172cceaa776.png"
       },
       "image_type": "non_artifact",
-      "answer": "2"
+      "answer": "2",
+      "typo_warnings": []
     },
     "7": {
       "question": "다음 자료에 해당하는 국가에 대한 설명으로 옳은 것은?",
@@ -310,7 +316,8 @@
         "edited": "2b7d4b79-5d6e-4f55-88e2-9cc5968fcbe2.png"
       },
       "image_type": "non_artifact",
-      "answer": "2"
+      "answer": "2",
+      "typo_warnings": []
     },
     "8": {
       "question": "(가) 국가의 경제 상황으로 가장 적절한 것은?",
@@ -354,7 +361,8 @@
         "edited": "c4bba951-79dd-4ea2-870f-e1a6eaa754ff.png"
       },
       "image_type": "yes_artifact",
-      "answer": "3"
+      "answer": "3",
+      "typo_warnings": []
     },
     "9": {
       "question": "(가) 인물에 대한 설명으로 옳은 것은?",
@@ -398,7 +406,8 @@
         "edited": "5d68a1b3-3810-4c62-8687-2c14a604c1d6.png"
       },
       "image_type": "non_artifact",
-      "answer": "2"
+      "answer": "2",
+      "typo_warnings": []
     },
     "10": {
       "question": "다음 가상 뉴스에서 보도한 내용이 있었던 시기에 볼 수 있는  모습으로 가장 적절한 것은?",
@@ -442,7 +451,8 @@
         "edited": "c45b51c0-1b58-4e70-afc9-a16050d63be1.png"
       },
       "image_type": "traditional_person",
-      "answer": "4"
+      "answer": "4",
+      "typo_warnings": []
     },
     "11": {
       "question": "(가) 국가에 대한 고려의 대응으로 옳은 것은?",
@@ -486,7 +496,8 @@
         "edited": "d0108dc0-9d9c-4119-b975-ec1d2594a7fd.png"
       },
       "image_type": "yes_artifact",
-      "answer": "4"
+      "answer": "4",
+      "typo_warnings": []
     },
     "12": {
       "question": "(가)에 들어갈 내용으로 가장 적절한 것은?",
@@ -530,7 +541,8 @@
         "edited": "94077835-2dd4-4556-b794-53b895d02268.png"
       },
       "image_type": "non_artifact",
-      "answer": "1"
+      "answer": "1",
+      "typo_warnings": []
     },
     "13": {
       "question": "(가) 국가의 문화유산으로 옳지 않은 것은?",
@@ -577,7 +589,8 @@
         }
       },
       "image_type": "yes_artifact",
-      "answer": "4"
+      "answer": "4",
+      "typo_warnings": []
     },
     "14": {
       "question": "(가)에 들어갈 내용으로 가장 적절한 것은?",
@@ -621,7 +634,8 @@
         "edited": "646992b4-f65f-4bcc-82fa-881c9e82453e.png"
       },
       "image_type": "yes_artifact",
-      "answer": "5"
+      "answer": "5",
+      "typo_warnings": []
     },
     "15": {
       "question": "밑줄 그은 ‘인물’이 활동한 시기에 볼 수 있는 모습으로 가장  적절한 것은?",
@@ -666,7 +680,8 @@
         "edited": "5cec8752-2937-44cf-9bc5-95a35ab44cf2.png"
       },
       "image_type": "yes_artifact",
-      "answer": "1"
+      "answer": "1",
+      "typo_warnings": []
     },
     "16": {
       "question": "(가) 인물에 대한 설명으로 옳은 것은?",
@@ -710,7 +725,8 @@
         "edited": "09a3cc65-6bd4-494e-8213-1b42479e3afa.png"
       },
       "image_type": "yes_artifact",
-      "answer": "4"
+      "answer": "4",
+      "typo_warnings": []
     },
     "17": {
       "question": "(가), (나) 인물에 대한 설명으로 옳은 것은?",
@@ -754,7 +770,8 @@
         "edited": "cd55bb1f-331a-4647-92c5-c1e2b6c7fbaa.png"
       },
       "image_type": "traditional_person",
-      "answer": "1"
+      "answer": "1",
+      "typo_warnings": []
     },
     "18": {
       "question": "다음 상황이 나타난 시기를 연표에서 옳게 고른 것은?",
@@ -792,7 +809,8 @@
         "edited": "f32a85dd-4f81-463d-831c-028d39c0ab23.png"
       },
       "image_type": "yes_artifact",
-      "answer": "5"
+      "answer": "5",
+      "typo_warnings": []
     },
     "19": {
       "question": "(가) 기구에 대한 설명으로 옳은 것은?",
@@ -836,7 +854,8 @@
         "edited": "a4cb5146-6b39-494d-9e81-1d595d1f4c6b.png"
       },
       "image_type": "non_artifact",
-      "answer": "1"
+      "answer": "1",
+      "typo_warnings": []
     },
     "20": {
       "question": "(가) 왕의 재위 시기에 있었던 사실로 옳은 것은?",
@@ -880,7 +899,8 @@
         "edited": "eb480d08-5982-47c9-9919-1a49304fb104.png"
       },
       "image_type": "yes_artifact",
-      "answer": "5"
+      "answer": "5",
+      "typo_warnings": []
     },
     "21": {
       "question": "(가) 인물에 대한 설명으로 옳은 것은?",
@@ -924,7 +944,8 @@
         "edited": "373246dc-a659-4c5c-8198-2049b36ef57b.png"
       },
       "image_type": "yes_artifact",
-      "answer": "4"
+      "answer": "4",
+      "typo_warnings": []
     },
     "22": {
       "question": "다음 시나리오의 상황 이후에 전개된 사실로 옳은 것은?",
@@ -968,7 +989,8 @@
         "edited": "13101ef1-cc01-4aa0-88c2-e7aa04b446b3.png"
       },
       "image_type": "non_artifact",
-      "answer": "5"
+      "answer": "5",
+      "typo_warnings": []
     },
     "23": {
       "question": "밑줄 그은 ‘시기’에 볼 수 있는 모습으로 적절하지 않은 것은?",
@@ -1013,7 +1035,8 @@
         "edited": "2fbcaa38-b327-428e-a8fb-ec4b955b93f5.png"
       },
       "image_type": "yes_artifact",
-      "answer": "1"
+      "answer": "1",
+      "typo_warnings": []
     },
     "24": {
       "question": "(가) 왕이 추진한 정책으로 옳은 것은?",
@@ -1057,7 +1080,8 @@
         "question": "076cd795-7542-4bad-ba4f-011049babe25.png",
         "edited": "076cd795-7542-4bad-ba4f-011049babe25.png"
       },
-      "answer": "3"
+      "answer": "3",
+      "typo_warnings": []
     },
     "25": {
       "question": "다음 자료에 나타난 시기의 경제 상황으로 옳은 것은?",
@@ -1101,7 +1125,8 @@
         "edited": "d044b83b-a6c8-49b7-817c-40746cd1e2f4.png"
       },
       "image_type": "traditional_person",
-      "answer": "3"
+      "answer": "3",
+      "typo_warnings": []
     },
     "26": {
       "question": "(가) 인물에 대한 설명으로 옳은 것은?",
@@ -1145,7 +1170,8 @@
         "edited": "560a10d1-a330-44a9-88a7-cc06a1addeed.png"
       },
       "image_type": "yes_artifact",
-      "answer": "4"
+      "answer": "4",
+      "typo_warnings": []
     },
     "27": {
       "question": "(가) 지역에 대한 탐구 활동으로 가장 적절한 것은?",
@@ -1189,7 +1215,8 @@
         "edited": "844a550f-1863-4779-a8f6-a5653ae71b3d.png"
       },
       "image_type": "yes_artifact",
-      "answer": "5"
+      "answer": "5",
+      "typo_warnings": []
     },
     "28": {
       "question": "다음 자료에 나타난 상황 이후의 사실로 옳은 것은?",
@@ -1233,7 +1260,8 @@
         "edited": "253b7572-0f97-4ee6-8d52-ace513f350bb.png"
       },
       "image_type": "non_artifact",
-      "answer": "3"
+      "answer": "3",
+      "typo_warnings": []
     },
     "29": {
       "question": "다음 자료에 나타난 사건의 배경으로 가장 적절한 것은?",
@@ -1277,7 +1305,8 @@
         "edited": "a658018e-2d5b-4240-8532-186307d52020.png"
       },
       "image_type": "non_artifact",
-      "answer": "4"
+      "answer": "4",
+      "typo_warnings": []
     },
     "30": {
       "question": "밑줄 그은 ‘이 개혁’의 내용으로 옳은 것은?",
@@ -1322,7 +1351,8 @@
         "edited": "76c36302-beef-4f89-a68a-80e86e85421b.png"
       },
       "image_type": "yes_artifact",
-      "answer": "3"
+      "answer": "3",
+      "typo_warnings": []
     },
     "31": {
       "question": "(가) 사건에 대한 설명으로 옳은 것은?",
@@ -1366,7 +1396,8 @@
         "edited": "a017296f-3b4b-4682-adea-d7b22f2572b9.png"
       },
       "image_type": "yes_artifact",
-      "answer": "2"
+      "answer": "2",
+      "typo_warnings": []
     },
     "32": {
       "question": " 밑줄 그은 ‘이 지역’에서 전개된 민족 운동에 대한 설명으로  옳은 것은?",
@@ -1411,7 +1442,8 @@
         "edited": "13e9e7d4-5229-4815-b3a2-9697e723214f.png"
       },
       "image_type": "yes_artifact",
-      "answer": "3"
+      "answer": "3",
+      "typo_warnings": []
     },
     "33": {
       "question": "다음 자료에 나타난 조약에 대한 설명으로 옳은 것은?",
@@ -1455,7 +1487,8 @@
         "edited": "14e2b0a0-e3ad-4e90-9d28-4546470da395.png"
       },
       "image_type": "yes_artifact",
-      "answer": "2"
+      "answer": "2",
+      "typo_warnings": []
     },
     "34": {
       "question": "(가) 단체에 대한 설명으로 옳은 것은?",
@@ -1499,7 +1532,8 @@
         "edited": "8ef7dbea-2843-4a3a-9a7f-faf555d2040f.png"
       },
       "image_type": "yes_artifact",
-      "answer": "2"
+      "answer": "2",
+      "typo_warnings": []
     },
     "35": {
       "question": "밑줄 그은 ‘이 학교’에 대한 설명으로 옳은 것은?",
@@ -1544,7 +1578,8 @@
         "edited": "2593892a-3a87-4c66-aad3-5c6ff4d2c25e.png"
       },
       "image_type": "yes_artifact",
-      "answer": "5"
+      "answer": "5",
+      "typo_warnings": []
     },
     "36": {
       "question": "밑줄 그은 ‘이 단체’에 대한 설명으로 옳은 것은?",
@@ -1589,7 +1624,8 @@
         "edited": "c17ca2eb-4b43-4da6-980e-ee09acd9d53f.png"
       },
       "image_type": "yes_artifact",
-      "answer": "4"
+      "answer": "4",
+      "typo_warnings": []
     },
     "37": {
       "question": "밑줄  그은  ‘이  정책’이  실시된  시기에  볼  수  있는  모습으로  가장 적절한 것은?",
@@ -1634,7 +1670,8 @@
         "edited": "34dd8dd9-3ef2-4905-acaf-17a671513a1f.png"
       },
       "image_type": "yes_artifact",
-      "answer": "1"
+      "answer": "1",
+      "typo_warnings": []
     },
     "38": {
       "question": "(가) 단체의 활동으로 옳은 것은?",
@@ -1678,7 +1715,8 @@
         "edited": "4618ff6e-bb3c-4a03-ba7f-65c6aef99c40.png"
       },
       "image_type": "non_artifact",
-      "answer": "5"
+      "answer": "5",
+      "typo_warnings": []
     },
     "39": {
       "question": "교사의 질문에 대한 학생의 답변으로 가장 적절한 것은?",
@@ -1722,7 +1760,8 @@
         "edited": "636c18be-50f5-4092-b886-fc6817ddf22f.png"
       },
       "image_type": "yes_artifact",
-      "answer": "5"
+      "answer": "5",
+      "typo_warnings": []
     },
     "40": {
       "question": "(가)에 들어갈 내용으로 옳은 것은?",
@@ -1766,7 +1805,8 @@
         "edited": "e473b67e-bc74-4819-9816-cb65bf5c3580.png"
       },
       "image_type": "non_artifact",
-      "answer": "2"
+      "answer": "2",
+      "typo_warnings": []
     },
     "41": {
       "question": "밑줄 그은 ‘이 부대’에 대한 설명으로 옳은 것은?",
@@ -1811,7 +1851,8 @@
         "edited": "37b8cc8c-54fc-4748-84ac-fa7fdfc858b6.png"
       },
       "image_type": "non_artifact",
-      "answer": "1"
+      "answer": "1",
+      "typo_warnings": []
     },
     "42": {
       "question": "(가)에 들어갈 내용으로 옳은 것은?",
@@ -1855,7 +1896,8 @@
         "edited": "fa8106de-e6e8-4c89-8cd9-638d6e906ff2.png"
       },
       "image_type": "yes_artifact",
-      "answer": "5"
+      "answer": "5",
+      "typo_warnings": []
     },
     "43": {
       "question": "(가)에 들어갈 내용으로 가장 적절한 것은?",
@@ -1899,7 +1941,8 @@
         "edited": "35fd60f7-38e2-4b36-8612-7843721a39f0.png"
       },
       "image_type": "non_artifact",
-      "answer": "2"
+      "answer": "2",
+      "typo_warnings": []
     },
     "44": {
       "question": "밑줄 그은 ‘시기’에 볼 수 있는 모습으로 가장 적절한 것은?",
@@ -1944,7 +1987,8 @@
         "edited": "23e78e0b-ac2a-4789-a27f-abbc2101df26.png"
       },
       "image_type": "yes_artifact",
-      "answer": "4"
+      "answer": "4",
+      "typo_warnings": []
     },
     "45": {
       "question": "다음 자료를 활용한 탐구 활동으로 가장 적절한 것은?",
@@ -1988,7 +2032,8 @@
         "edited": "062c211a-02d1-41d5-ac63-d5289529b683.png"
       },
       "image_type": "non_artifact",
-      "answer": "1"
+      "answer": "1",
+      "typo_warnings": []
     },
     "46": {
       "question": "(가) 인물에 대한 설명으로 옳은 것은?",
@@ -2032,7 +2077,8 @@
         "edited": "4919e72a-5d25-4c1c-8769-20b41d8a9361.png"
       },
       "image_type": "yes_artifact",
-      "answer": "1"
+      "answer": "1",
+      "typo_warnings": []
     },
     "47": {
       "question": "(가) 정부 시기에 있었던 사실로 옳은 것은?",
@@ -2076,7 +2122,8 @@
         "edited": "41b716cf-3230-44fe-8356-7d114c49736a.png"
       },
       "image_type": "yes_artifact",
-      "answer": "2"
+      "answer": "2",
+      "typo_warnings": []
     },
     "48": {
       "question": "다음 대화에 나타난 사건 이후에 전개된 사실로 옳은 것은?",
@@ -2120,7 +2167,8 @@
         "edited": "75a1dc56-7954-409f-baac-0ed219828364.png"
       },
       "image_type": "non_artifact",
-      "answer": "2"
+      "answer": "2",
+      "typo_warnings": []
     },
     "49": {
       "question": "밑줄 그은 ‘이 정부’ 시기에 있었던 사실로 옳은 것은?",
@@ -2163,7 +2211,8 @@
         "edited": "3d86a9ee-6f15-403f-80c7-12eb920cb6c1.png"
       },
       "image_type": "non_artifact",
-      "answer": "2"
+      "answer": "2",
+      "typo_warnings": []
     },
     "50": {
       "question": "(가)~(마)에 해당하는 왕에 대한 설명으로 옳은 것은?",
@@ -2207,7 +2256,8 @@
         "edited": "3de1a669-9144-4139-8cb2-b75fd1c6fa61.png"
       },
       "image_type": "non_artifact",
-      "answer": "3"
+      "answer": "3",
+      "typo_warnings": []
     }
   }
 }
