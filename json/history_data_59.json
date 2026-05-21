@@ -32,7 +32,7 @@
           "선지해설": {
             "1": "초기 철기 시대",
             "2": "구석기 시대",
-            "3": "명도전",
+            "3": "초기 철기 시대",
             "4": "청동기 시대",
             "5": "신석기 시대"
           }
@@ -79,7 +79,7 @@
             "2": "삼한",
             "3": "부여",
             "4": "고구려",
-            "5": "고조선 (기원전 3세기)"
+            "5": "고조선"
           }
         }
       },
@@ -659,7 +659,7 @@
           }
         }
       },
-      "collection": 2,
+      "collection": 4,
       "image_path": {
         "question": "7d173f2a-8e89-4c83-9de2-d9c693e4f1e0.png",
         "edited": "7d173f2a-8e89-4c83-9de2-d9c693e4f1e0.png",
@@ -802,7 +802,7 @@
           }
         }
       },
-      "collection": 3,
+      "collection": 4,
       "image_path": {
         "question": "4b08c075-ac27-458f-9f77-7cf7c3fc0849.png",
         "edited": "4b08c075-ac27-458f-9f77-7cf7c3fc0849.png"
@@ -1299,7 +1299,7 @@
           }
         }
       },
-      "collection": 6,
+      "collection": 7,
       "image_path": {
         "question": "bb691bc9-94ac-420a-8c34-ab085d8369a9.png",
         "edited": "bb691bc9-94ac-420a-8c34-ab085d8369a9.png"
@@ -1791,7 +1791,7 @@
           }
         }
       },
-      "collection": 7,
+      "collection": 8,
       "image_path": {
         "question": "000065d9-4ad6-4069-88d0-331ac2c3005c.png",
         "edited": "000065d9-4ad6-4069-88d0-331ac2c3005c.png"
@@ -1882,7 +1882,7 @@
           }
         }
       },
-      "collection": 8,
+      "collection": 9,
       "image_path": {
         "question": "930aa240-aa80-434b-99b1-19626727d32d.png",
         "edited": "930aa240-aa80-434b-99b1-19626727d32d.png"

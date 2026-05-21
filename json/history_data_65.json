@@ -173,7 +173,7 @@
         }
       },
       "image_type": "non_artifact",
-      "collection": 0
+      "collection": 2
     },
     "5": {
       "question": "다음 상황 이후에 있었던 사실로 옳은 것은?",
@@ -627,7 +627,7 @@
         "edited": "05d3008c-68e6-4b38-a08f-98117ac6e716.png"
       },
       "image_type": "non_artifact",
-      "collection": 5
+      "collection": 4
     },
     "16": {
       "question": "(가) 국가의 경제 상황으로 옳은 것은?",
@@ -670,7 +670,7 @@
         "edited": "f5f8c218-d55a-4b99-bec8-ec5d70e06674.png"
       },
       "image_type": "non_artifact",
-      "collection": 2
+      "collection": 4
     },
     "17": {
       "question": "(가)에 해당하는 문화유산으로 옳은 것은?",
@@ -714,7 +714,7 @@
         }
       },
       "image_type": "non_artifact",
-      "collection": 0
+      "collection": 4
     },
     "18": {
       "question": "다음 대화 이후에 전개된 사실로 옳은 것은?",
@@ -931,7 +931,7 @@
         }
       },
       "image_type": "non_artifact",
-      "collection": 4
+      "collection": 5
     },
     "23": {
       "question": "밑줄 그은 '이 전쟁' 중에 있었던 사실로 옳은 것은?",
@@ -1093,7 +1093,7 @@
         "edited": "b5d56542-6a6d-4b6c-8fe8-4aba40346795.png"
       },
       "image_type": "non_artifact",
-      "collection": 9
+      "collection": 6
     },
     "27": {
       "question": "다음 가상 인터뷰의 주인공에 대한 설명으로 옳은 것은?",
@@ -1341,7 +1341,7 @@
         "edited": "56fa9944-e4c0-4ccd-a1e2-2564d53b2e6f.png"
       },
       "image_type": "yes_artifact",
-      "collection": 0
+      "collection": 7
     },
     "33": {
       "question": "다음 의병 부대에 대한 설명으로 옳은 것은?",
@@ -1459,7 +1459,7 @@
         "edited": "754eec23-d73f-4d04-91e2-2db6206a6935.png"
       },
       "image_type": "non_artifact",
-      "collection": 9
+      "collection": 7
     },
     "36": {
       "question": "(가) 단체에 대한 설명으로 옳은 것은?",
@@ -1965,7 +1965,7 @@
         "edited": "e49196a3-d026-4173-82c5-affeebf7b2a4.png"
       },
       "image_type": "yes_artifact",
-      "collection": 4
+      "collection": 9
     },
     "48": {
       "question": "밑줄 그은 '정부' 시기에 있었던 사실로 옳은 것은?",
@@ -2052,7 +2052,7 @@
         "edited": "fcfa0905-6eb0-45fa-a443-75ff1c471511.png"
       },
       "image_type": "yes_artifact",
-      "collection": 3
+      "collection": 7
     },
     "50": {
       "question": "다음 뉴스가 보도된 정부 시기의 통일 정책으로 옳은 것은?",

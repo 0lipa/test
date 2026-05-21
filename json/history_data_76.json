@@ -163,11 +163,11 @@
         "question": "a195fb5f-2319-41b1-a271-bdfd996d88d3.png",
         "edited": "a195fb5f-2319-41b1-a271-bdfd996d88d3.png",
         "choices": {
-          "1": "779185a1-6aef-42e0-a2fa-8639f11d068a.png",
-          "2": "3d637d35-b79a-476f-842c-a442b807bafd.png",
-          "3": "a436d7b2-9f03-4509-821d-73b360d2f625.png",
-          "4": "ec334dd2-64d3-4faa-bcb4-5f9691db6ec5.png",
-          "5": "56c59d66-7c22-4b63-8969-4de6e8611db5.png"
+          "1": "choice_images/779185a1-6aef-42e0-a2fa-8639f11d068a.png",
+          "2": "choice_images/3d637d35-b79a-476f-842c-a442b807bafd.png",
+          "3": "choice_images/a436d7b2-9f03-4509-821d-73b360d2f625.png",
+          "4": "choice_images/ec334dd2-64d3-4faa-bcb4-5f9691db6ec5.png",
+          "5": "choice_images/56c59d66-7c22-4b63-8969-4de6e8611db5.png"
         }
       },
       "image_type": "yes_artifact",
@@ -297,7 +297,7 @@
           }
         }
       },
-      "collection": 2,
+      "collection": 3,
       "image_path": {
         "question": "663d034f-e4e7-4f38-83a8-d75167d47a87.png",
         "edited": "663d034f-e4e7-4f38-83a8-d75167d47a87.png"
@@ -341,7 +341,7 @@
           }
         }
       },
-      "collection": 2,
+      "collection": 3,
       "image_path": {
         "question": "1a33b713-67fb-4e50-83ae-d7110c9b9bbf.png",
         "edited": "1a33b713-67fb-4e50-83ae-d7110c9b9bbf.png"
@@ -385,7 +385,7 @@
           }
         }
       },
-      "collection": 2,
+      "collection": 3,
       "image_path": {
         "question": "0ae66ab0-c532-4de7-90a2-58cacbc32014.png",
         "edited": "0ae66ab0-c532-4de7-90a2-58cacbc32014.png"
@@ -429,7 +429,7 @@
           }
         }
       },
-      "collection": 3,
+      "collection": 4,
       "image_path": {
         "question": "9af3450c-bcc2-4657-b8e6-253964023ca1.png",
         "edited": "9af3450c-bcc2-4657-b8e6-253964023ca1.png"
@@ -730,11 +730,11 @@
         "question": "94cf9e12-0c61-434c-b4f5-194be9e30739.png",
         "edited": "94cf9e12-0c61-434c-b4f5-194be9e30739.png",
         "choices": {
-          "1": "fa0dd43b-f252-4b1b-9a70-a5dbc8d3e200.png",
-          "2": "6d442e53-5d3b-4739-b836-434a6a9834c3.png",
-          "3": "883edd5a-c767-4514-807d-d47a229c0bda.png",
-          "4": "cd23cf35-5ae3-46b0-8999-5d67afa7957a.png",
-          "5": "4345f17d-ab96-47f5-a2ae-cdd2c2e633fd.png"
+          "1": "choice_images/fa0dd43b-f252-4b1b-9a70-a5dbc8d3e200.png",
+          "2": "choice_images/6d442e53-5d3b-4739-b836-434a6a9834c3.png",
+          "3": "choice_images/883edd5a-c767-4514-807d-d47a229c0bda.png",
+          "4": "choice_images/cd23cf35-5ae3-46b0-8999-5d67afa7957a.png",
+          "5": "choice_images/4345f17d-ab96-47f5-a2ae-cdd2c2e633fd.png"
         }
       },
       "image_type": "yes_artifact",
@@ -1088,7 +1088,7 @@
           }
         }
       },
-      "collection": 5,
+      "collection": 6,
       "image_path": {
         "question": "3053ae44-47b9-46f3-a721-e375726323d6.png",
         "edited": "3053ae44-47b9-46f3-a721-e375726323d6.png"
@@ -1132,7 +1132,7 @@
           }
         }
       },
-      "collection": 3,
+      "collection": 4,
       "image_path": {
         "question": "53370bea-59b1-44f4-b944-b9beaf0765e2.png",
         "edited": "53370bea-59b1-44f4-b944-b9beaf0765e2.png"
@@ -1175,11 +1175,11 @@
         "question": "caf68a78-0eb7-4aaf-af58-a92353138b1a.png",
         "edited": "caf68a78-0eb7-4aaf-af58-a92353138b1a.png",
         "choices": {
-          "1": "11ef58d9-4dd6-4b6e-a991-8c1bc7f2070f.png",
-          "2": "760831a0-384e-448c-a244-b24bc7c1abd7.png",
-          "3": "8c714c55-981c-4f04-97a0-b4cffe2b50a0.png",
-          "4": "1914931f-d892-4a99-a7dd-37d8c0d1f35e.png",
-          "5": "1de78735-850b-4d85-9364-ab3807d224c1.png"
+          "1": "choice_images/11ef58d9-4dd6-4b6e-a991-8c1bc7f2070f.png",
+          "2": "choice_images/760831a0-384e-448c-a244-b24bc7c1abd7.png",
+          "3": "choice_images/8c714c55-981c-4f04-97a0-b4cffe2b50a0.png",
+          "4": "choice_images/1914931f-d892-4a99-a7dd-37d8c0d1f35e.png",
+          "5": "choice_images/1de78735-850b-4d85-9364-ab3807d224c1.png"
         }
       },
       "image_type": "yes_artifact",
@@ -1350,7 +1350,7 @@
           }
         }
       },
-      "collection": 6,
+      "collection": 7,
       "image_path": {
         "question": "04310ede-1ccd-4612-ba19-42617cd46396.png",
         "edited": "04310ede-1ccd-4612-ba19-42617cd46396.png"
@@ -2016,7 +2016,7 @@
           }
         }
       },
-      "collection": 4,
+      "collection": 5,
       "image_path": {
         "question": "a0e50c52-6569-464c-9a1b-101e71232146.png",
         "edited": "a0e50c52-6569-464c-9a1b-101e71232146.png"

@@ -259,7 +259,7 @@
       },
       "answer": "3",
       "typo_warnings": [],
-      "collection": 3,
+      "collection": 2,
       "image_path": {
         "question": "ee01be24-bb23-4e84-bee3-8baaff13fe49.png",
         "edited": "ee01be24-bb23-4e84-bee3-8baaff13fe49.png"
@@ -395,7 +395,7 @@
       },
       "answer": "5",
       "typo_warnings": [],
-      "collection": 3,
+      "collection": 4,
       "image_path": {
         "question": "7c2a1c13-999f-4f1b-8a85-461543847b85.png",
         "edited": "7c2a1c13-999f-4f1b-8a85-461543847b85.png"
@@ -531,7 +531,7 @@
       },
       "answer": "5",
       "typo_warnings": [],
-      "collection": 5,
+      "collection": 4,
       "image_path": {
         "question": "eb4370f0-672c-4f8e-bbb6-3e19fcc67b5c.png",
         "edited": "eb4370f0-672c-4f8e-bbb6-3e19fcc67b5c.png"
@@ -757,7 +757,7 @@
       },
       "answer": "2",
       "typo_warnings": [],
-      "collection": 5,
+      "collection": 4,
       "image_path": {
         "question": "f1909303-bbb3-4e45-9ed9-fed95e4b5be2.png",
         "edited": "f1909303-bbb3-4e45-9ed9-fed95e4b5be2.png"
@@ -1483,7 +1483,7 @@
       },
       "answer": "5",
       "typo_warnings": [],
-      "collection": 7,
+      "collection": 8,
       "image_path": {
         "question": "06d9f1ce-0226-4ec8-bed2-91ada308c8e8.png",
         "edited": "06d9f1ce-0226-4ec8-bed2-91ada308c8e8.png"
@@ -2059,7 +2059,7 @@
       },
       "answer": "5",
       "typo_warnings": [],
-      "collection": 2,
+      "collection": 4,
       "image_path": {
         "question": "6cf05529-c9b2-4d52-b045-4b86e88af6ab.png",
         "edited": "6cf05529-c9b2-4d52-b045-4b86e88af6ab.png"
@@ -2104,7 +2104,7 @@
       },
       "answer": "5",
       "typo_warnings": [],
-      "collection": 7,
+      "collection": 6,
       "image_path": {
         "question": "3c208605-2713-4c15-83d3-3dd93864cd04.png",
         "edited": "3c208605-2713-4c15-83d3-3dd93864cd04.png"
@@ -2194,7 +2194,7 @@
       },
       "answer": "5",
       "typo_warnings": [],
-      "collection": 9,
+      "collection": 3,
       "image_path": {
         "question": "f372d911-430d-4e9c-bce2-b5f86b24a326.png",
         "edited": "f372d911-430d-4e9c-bce2-b5f86b24a326.png"

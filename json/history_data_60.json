@@ -29,7 +29,7 @@
         "ai_explanation": {
           "자료해설": "(가)는 청동기 시대. 화순 고인돌 유적은 유네스코 세계 유산으로, 계급이 발생한 청동기 시대의 대표적인 무덤 양식이다.",
           "선지해설": {
-            "1": "삼국 시대 우경",
+            "1": "삼국 시대",
             "2": "구석기 시대",
             "3": "청동기 시대",
             "4": "신석기 시대",
@@ -173,7 +173,7 @@
           }
         }
       },
-      "collection": 3,
+      "collection": 2,
       "image_path": {
         "question": "d6a13a74-d4da-4f8c-9ebf-063d239e7480.png",
         "edited": "d6a13a74-d4da-4f8c-9ebf-063d239e7480.png"
@@ -355,7 +355,7 @@
           }
         }
       },
-      "collection": 2,
+      "collection": 3,
       "image_path": {
         "question": "9a766060-95ff-47bf-9a4b-0eced06d7d2a.png",
         "edited": "9a766060-95ff-47bf-9a4b-0eced06d7d2a.png"
@@ -439,7 +439,7 @@
           }
         }
       },
-      "collection": 2,
+      "collection": 4,
       "image_path": {
         "question": "7170e91f-acae-4792-bbe9-23066c989867.png",
         "edited": "7170e91f-acae-4792-bbe9-23066c989867.png",
@@ -711,7 +711,7 @@
           }
         }
       },
-      "collection": 5,
+      "collection": 4,
       "image_path": {
         "question": "60ac9193-10f4-4f58-a59d-e33b8c121f5a.png",
         "edited": "60ac9193-10f4-4f58-a59d-e33b8c121f5a.png"
@@ -937,7 +937,7 @@
           }
         }
       },
-      "collection": 4,
+      "collection": 5,
       "image_path": {
         "question": "8ffacba1-6bca-45f3-a1ae-b30f339c399b.png",
         "edited": "8ffacba1-6bca-45f3-a1ae-b30f339c399b.png"
@@ -1206,7 +1206,7 @@
           }
         }
       },
-      "collection": 4,
+      "collection": 5,
       "image_path": {
         "question": "622c0d6b-3a06-495a-a8e1-896caca90dcc.png",
         "edited": "622c0d6b-3a06-495a-a8e1-896caca90dcc.png"
@@ -1387,7 +1387,7 @@
           }
         }
       },
-      "collection": 7,
+      "collection": 6,
       "image_path": {
         "question": "8416a543-6898-45ed-89d0-0155ad5bfb8e.png",
         "edited": "8416a543-6898-45ed-89d0-0155ad5bfb8e.png"
@@ -1698,7 +1698,7 @@
           }
         }
       },
-      "collection": 7,
+      "collection": 8,
       "image_path": {
         "question": "b3db91b2-3481-43a0-aa69-ffdf0974e5e4.png",
         "edited": "b3db91b2-3481-43a0-aa69-ffdf0974e5e4.png"
@@ -1963,7 +1963,7 @@
           }
         }
       },
-      "collection": 6,
+      "collection": 9,
       "image_path": {
         "question": "dbfaf7c6-2aee-496e-941b-acfb49004fd5.png",
         "edited": "dbfaf7c6-2aee-496e-941b-acfb49004fd5.png"
@@ -2053,7 +2053,7 @@
           }
         }
       },
-      "collection": 4,
+      "collection": 3,
       "image_path": {
         "question": "f4c67723-ace0-45ce-ae05-07be13b5b894.png",
         "edited": "f4c67723-ace0-45ce-ae05-07be13b5b894.png"
@@ -2189,7 +2189,7 @@
           }
         }
       },
-      "collection": 5,
+      "collection": 8,
       "image_path": {
         "question": "73732ad6-e94b-4258-bcc6-cd19c8afa2a0.png",
         "edited": "73732ad6-e94b-4258-bcc6-cd19c8afa2a0.png"

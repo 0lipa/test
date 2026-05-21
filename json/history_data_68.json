@@ -30,7 +30,7 @@
           "자료해설": "(가)는 청동기 시대이다. 청동기 시대에는 고인돌과 계급이 등장하였으며, 반달돌칼로 벼를 수확하였다.",
           "선지해설": {
             "1": "청동기 시대",
-            "2": "지증왕 시기 이후 철기 시대",
+            "2": "삼국시대 우경",
             "3": "구석기 시대",
             "4": "철기 시대",
             "5": "신석기 시대"
@@ -627,7 +627,7 @@
       "image_type": "yes_artifact",
       "answer": "4",
       "typo_warnings": [],
-      "collection": 3
+      "collection": 5
     },
     "15": {
       "question": "(가) 군사 조직에 대한 설명으로 옳은 것은?",
@@ -989,7 +989,7 @@
       "image_type": "non_artifact",
       "answer": "2",
       "typo_warnings": [],
-      "collection": 5
+      "collection": 6
     },
     "23": {
       "question": "다음 상황이 나타난 시기에 볼 수 있는 모습으로 적절하지 않은 것은?",
@@ -1298,7 +1298,7 @@
       "image_type": "yes_artifact",
       "answer": "4",
       "typo_warnings": [],
-      "collection": 4
+      "collection": 8
     },
     "30": {
       "question": "다음 대화가 오갔던 회담 결과 체결된 조약에 대한 설명으로 옳은 것은?",
@@ -1601,7 +1601,7 @@
       "image_type": "yes_artifact",
       "answer": "5",
       "typo_warnings": [],
-      "collection": 7
+      "collection": 8
     },
     "37": {
       "question": "밑줄 그은 '개혁'에 해당하는 내용으로 옳은 것을 <보기>에서 고른 것은?",

@@ -29,7 +29,7 @@
           "자료해설": "(가)는 청동기 시대. 사유 재산과 계급 발생은 청동기 시대의 대표적인 사회 특징이며, 대표 유물로는 비파형 동검이 있다.",
           "선지해설": {
             "1": "철기 시대",
-            "2": "중국 화폐 유입기",
+            "2": "철기 시대",
             "3": "청동기 시대",
             "4": "구석기 시대",
             "5": "신석기 시대"
@@ -344,7 +344,7 @@
           }
         }
       },
-      "collection": 3,
+      "collection": 2,
       "image_path": {
         "question": "b0878bba-a5ef-4576-918e-80d77c6a8bcb.png",
         "edited": "b0878bba-a5ef-4576-918e-80d77c6a8bcb.png"
@@ -734,7 +734,7 @@
           }
         }
       },
-      "collection": 5,
+      "collection": 4,
       "image_path": {
         "question": "d9b692b9-7607-4387-a4c7-ad91c0dc755b.png",
         "edited": "d9b692b9-7607-4387-a4c7-ad91c0dc755b.png"
@@ -1175,11 +1175,11 @@
         "question": "73352ef4-1875-4180-aa52-dadd5c01dfaf.png",
         "edited": "73352ef4-1875-4180-aa52-dadd5c01dfaf.png",
         "choices": {
-          "1": "77fda552-2457-40df-9806-a05d2cdea7bf.png",
-          "2": "3089e4c0-e11d-4064-8a7d-a075a7a72e5f.png",
-          "3": "4e1381ab-8fda-4607-86f8-376d92f859a7.png",
-          "4": "bf7fb922-c12f-4579-a396-4e7fbd81d8a3.png",
-          "5": "2d4b86f5-9d6a-4d99-b018-6d2d55e026ba.png"
+          "1": "choice_images/77fda552-2457-40df-9806-a05d2cdea7bf.png",
+          "2": "choice_images/3089e4c0-e11d-4064-8a7d-a075a7a72e5f.png",
+          "3": "choice_images/4e1381ab-8fda-4607-86f8-376d92f859a7.png",
+          "4": "choice_images/bf7fb922-c12f-4579-a396-4e7fbd81d8a3.png",
+          "5": "choice_images/2d4b86f5-9d6a-4d99-b018-6d2d55e026ba.png"
         }
       },
       "image_type": "yes_artifact",
@@ -1309,7 +1309,7 @@
           }
         }
       },
-      "collection": 7,
+      "collection": 5,
       "image_path": {
         "question": "c5236494-1d7b-4626-a8de-52d097b07a7e.png",
         "edited": "c5236494-1d7b-4626-a8de-52d097b07a7e.png"
@@ -1345,7 +1345,7 @@
         "ai_explanation": {
           "자료해설": "(가)는 덕수궁(경운궁)이다. 아관파천 이후 고종이 러시아 공사관에서 경운궁으로 환궁(1897)하였으며, 돈덕전·중명전 등 서구식 건축물을 세워 근대 국가의 면모를 갖추고자 하였다.",
           "선지해설": {
-            "1": "덕수궁 석조전(1946)",
+            "1": "덕수궁",
             "2": "경희궁",
             "3": "창경궁",
             "4": "경복궁",
@@ -1964,7 +1964,7 @@
           }
         }
       },
-      "collection": 9,
+      "collection": 2,
       "image_path": {
         "question": "18e4ca2f-4609-4d3d-8c27-7e8f8f303aa2.png",
         "edited": "18e4ca2f-4609-4d3d-8c27-7e8f8f303aa2.png"

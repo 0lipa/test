@@ -449,7 +449,7 @@
       "image_type": "non_artifact",
       "answer": "4",
       "typo_warnings": [],
-      "collection": 3
+      "collection": 4
     },
     "11": {
       "question": "(가) 왕이 추진한 정책으로 옳은 것은?",
@@ -1119,7 +1119,7 @@
       "image_type": "traditional_person",
       "answer": "4",
       "typo_warnings": [],
-      "collection": 5
+      "collection": 6
     },
     "26": {
       "question": "(가)~(다)를 일어난 순서대로 옳게 나열한 것은?",
@@ -1287,7 +1287,7 @@
       "image_type": "yes_artifact",
       "answer": "5",
       "typo_warnings": [],
-      "collection": 7
+      "collection": 6
     },
     "30": {
       "question": "(가), (나) 조약에 대한 설명으로 옳은 것은?",
@@ -2054,7 +2054,7 @@
       "image_type": "non_artifact",
       "answer": "3",
       "typo_warnings": [],
-      "collection": 4
+      "collection": 7
     },
     "47": {
       "question": "(가)~(라)를 일어난 순서대로 옳게 나열한 것은?",
@@ -2136,7 +2136,7 @@
       "image_type": "non_artifact",
       "answer": "1",
       "typo_warnings": [],
-      "collection": 9
+      "collection": 4
     },
     "49": {
       "question": "(가) 정부 시기에 있었던 사실로 옳은 것은?",

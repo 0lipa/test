@@ -172,7 +172,7 @@
           }
         }
       },
-      "collection": 1,
+      "collection": 2,
       "image_path": {
         "question": "da59282d-516e-4d9f-9a51-45e87dc5faf6.png",
         "edited": "da59282d-516e-4d9f-9a51-45e87dc5faf6.png"
@@ -217,7 +217,7 @@
           }
         }
       },
-      "collection": 2,
+      "collection": 3,
       "image_path": {
         "question": "363bb25b-4a22-4e1b-b189-6c2a8148cc1c.png",
         "edited": "363bb25b-4a22-4e1b-b189-6c2a8148cc1c.png"
@@ -352,7 +352,7 @@
           }
         }
       },
-      "collection": 4,
+      "collection": 3,
       "image_path": {
         "question": "0c33eb27-3584-4756-a7d4-3e790397c602.png",
         "edited": "0c33eb27-3584-4756-a7d4-3e790397c602.png"
@@ -664,7 +664,7 @@
           }
         }
       },
-      "collection": 2,
+      "collection": 4,
       "image_path": {
         "question": "94f708f4-06be-47ef-9621-b5add1201e06.png",
         "edited": "94f708f4-06be-47ef-9621-b5add1201e06.png"
@@ -1156,7 +1156,7 @@
           }
         }
       },
-      "collection": 5,
+      "collection": 6,
       "image_path": {
         "question": "676be7a5-b08b-4ca2-93b3-b3c826376b72.png",
         "edited": "676be7a5-b08b-4ca2-93b3-b3c826376b72.png"
@@ -1286,7 +1286,7 @@
           "선지해설": "삼국사기(1145) → 삼국유사(1285) → 동국통감(1485) → 발해고(1784) 따라서 정답 (가)-(다)-(나)-(라)"
         }
       },
-      "collection": 4,
+      "collection": 6,
       "image_path": {
         "question": "cabbd66e-e5e7-4ec1-a7aa-b1ad679c19ac.png",
         "edited": "cabbd66e-e5e7-4ec1-a7aa-b1ad679c19ac.png"
@@ -1330,7 +1330,7 @@
           }
         }
       },
-      "collection": 4,
+      "collection": 6,
       "image_path": {
         "question": "d0dec6b8-bcaf-4d7d-8683-aebd67304fca.png",
         "edited": "d0dec6b8-bcaf-4d7d-8683-aebd67304fca.png"
@@ -1465,7 +1465,7 @@
           }
         }
       },
-      "collection": 6,
+      "collection": 7,
       "image_path": {
         "question": "a8b5414d-3785-4e61-be4b-854135d99ff5.png",
         "edited": "a8b5414d-3785-4e61-be4b-854135d99ff5.png"

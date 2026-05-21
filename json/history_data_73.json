@@ -29,7 +29,7 @@
         "ai_explanation": {
           "자료해설": "청동기 시대에는 농경 발달로 잉여 생산물과 사유 재산이 생겨나 빈부 격차와 계급 사회가 형성되었으며, 비파형 동검·민무늬 토기 등이 대표 유물이다.",
           "선지해설": {
-            "1": "신라 지증왕(우경)",
+            "1": "고려 시대",
             "2": "청동기 시대",
             "3": "구석기 시대",
             "4": "구석기 시대",
@@ -315,7 +315,7 @@
         "edited": "af824153-5fbb-4f25-8c0f-599c48288f44.png"
       },
       "image_type": "yes_artifact",
-      "collection": 2,
+      "collection": 3,
       "answer": "2",
       "typo_warnings": []
     },
@@ -855,7 +855,7 @@
         "edited": "4d65b117-c8cb-4095-8618-bad52503a4db.png"
       },
       "image_type": "yes_artifact",
-      "collection": 4,
+      "collection": 6,
       "answer": "5",
       "typo_warnings": []
     },
@@ -1171,7 +1171,7 @@
         }
       },
       "image_type": "yes_artifact",
-      "collection": 4,
+      "collection": 6,
       "answer": "1",
       "typo_warnings": []
     },
@@ -1261,7 +1261,7 @@
         "edited": "c74621bb-1791-4336-be44-68ebf469bb04.png"
       },
       "image_type": "non_artifact",
-      "collection": 5,
+      "collection": 6,
       "answer": "2",
       "typo_warnings": []
     },

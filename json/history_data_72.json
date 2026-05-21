@@ -73,9 +73,9 @@
         "ai_explanation": {
           "자료해설": "한 무제의 침략으로 멸망한 나라는 고조선(BC 108)이다. 고조선은 상·대부·장군 등의 관직, 범금 8조, 중계 무역 등의 특징을 가진다.",
           "선지해설": {
-            "1": "신라 화랑",
-            "2": "백제 근초고왕",
-            "3": "고조선 수도",
+            "1": "신라",
+            "2": "백제(근초고왕)",
+            "3": "고조선",
             "4": "고구려",
             "5": "신라"
           }
@@ -346,7 +346,7 @@
           }
         }
       },
-      "collection": 2,
+      "collection": 3,
       "image_path": {
         "question": "ba1bcd42-8e13-4dc0-b6b6-fd3dab9bc28e.png",
         "edited": "ba1bcd42-8e13-4dc0-b6b6-fd3dab9bc28e.png"
@@ -1353,7 +1353,7 @@
           }
         }
       },
-      "collection": 7,
+      "collection": 6,
       "image_path": {
         "question": "159d7357-8da3-4435-ba55-4333e3eed8c5.png",
         "edited": "159d7357-8da3-4435-ba55-4333e3eed8c5.png"
@@ -1486,7 +1486,7 @@
           }
         }
       },
-      "collection": 8,
+      "collection": 7,
       "image_path": {
         "question": "2eaabc56-18fd-4a29-9936-65dd35ef9a96.png",
         "edited": "2eaabc56-18fd-4a29-9936-65dd35ef9a96.png"
@@ -2050,7 +2050,7 @@
           "선지해설": "관료전·녹읍 폐지(687·689) → 시정 전시과(976) → 과전법(1391) → 직전법(1466) 따라서 정답 (가)-(나)-(다)-(라)"
         }
       },
-      "collection": 4,
+      "collection": 5,
       "image_path": {
         "question": "9712cda7-56e1-4ba0-9b7a-3ebb4ef524df.png",
         "edited": "9712cda7-56e1-4ba0-9b7a-3ebb4ef524df.png"
@@ -2092,7 +2092,7 @@
           }
         }
       },
-      "collection": 4,
+      "collection": 5,
       "image_path": {
         "question": "66385fda-ce31-4309-9cf0-43e7c01ef3b4.png",
         "edited": "66385fda-ce31-4309-9cf0-43e7c01ef3b4.png"
@@ -2156,7 +2156,7 @@
         "5": "㉤"
       },
       "score": "1",
-      "image": true,
+      "image": false,
       "answer_details": {
         "theme": "지역사(통합)",
         "자료해설": "가운데 사진은 창녕 신라 진흥왕 척경비(창녕비)이다. 창녕비 임을 몰랐더라도, 위 지도에서 진흥왕 때 세운 비석이 있는 지역은 창녕 밖에 없으므로 정답을 선택할 수는 있다. 다만 어려운 문제이다. ※진흥왕 때 세운 비석  •서울 북한산 신라 진흥왕 순수비(서울, 신라의 한강 하류 진출) •창녕 신라 진흥왕 척경비(경남 창녕, 신라의 가야 정복) •마운령 신라 진흥왕 순수비(신라의 함경도 진출) •황초령 신라 진흥왕 순수비(신라의 함경도 진출) 정답 ③",
@@ -2183,14 +2183,7 @@
       "collection": 2,
       "image_path": {
         "question": "4a76a808-68ee-402f-88c1-b347a2d6f0de.png",
-        "edited": "4a76a808-68ee-402f-88c1-b347a2d6f0de.png",
-        "choices": {
-          "1": "c8da3b6b-bb49-42d8-a84e-a593b73123f6.png",
-          "2": "6af34c3a-72a2-477f-a139-161ef670ba96.png",
-          "3": "929c9326-0862-4c6c-913b-fbb1cead5d01.png",
-          "4": "04c92c65-7ba6-4acd-8504-1061db6c2449.png",
-          "5": "1b3f22e8-88c1-46c3-8aa6-bfa433d37a03.png"
-        }
+        "edited": "4a76a808-68ee-402f-88c1-b347a2d6f0de.png"
       },
       "image_type": "yes_artifact",
       "answer": "3",

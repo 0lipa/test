@@ -294,11 +294,11 @@
         "question": "d723cc7e-9173-4218-9f18-cfb8c759073a.png",
         "edited": "d723cc7e-9173-4218-9f18-cfb8c759073a.png",
         "choices": {
-          "1": "391219ea-b64e-4204-8265-194450631579.png",
-          "2": "70ef8b84-5233-4c5f-9063-7118964f4f12.png",
-          "3": "80850518-bce1-48df-9a1d-a971286781dc.png",
-          "4": "6082c701-e27f-47a2-9cce-7d3d7e0d0508.png",
-          "5": "76f906ce-7b26-4405-b9c4-940bea4b22f0.png"
+          "1": "choice_images/391219ea-b64e-4204-8265-194450631579.png",
+          "2": "choice_images/70ef8b84-5233-4c5f-9063-7118964f4f12.png",
+          "3": "choice_images/80850518-bce1-48df-9a1d-a971286781dc.png",
+          "4": "choice_images/6082c701-e27f-47a2-9cce-7d3d7e0d0508.png",
+          "5": "choice_images/76f906ce-7b26-4405-b9c4-940bea4b22f0.png"
         }
       },
       "image_type": "non_artifact",
@@ -685,11 +685,11 @@
         "question": "bbfb90c5-f140-400b-aaa4-0fdf245fc519.png",
         "edited": "bbfb90c5-f140-400b-aaa4-0fdf245fc519.png",
         "choices": {
-          "1": "6d334f90-111d-407b-a013-bcd21ea249d9.png",
-          "2": "accb86bb-23f5-4bdf-a607-012044ee7c51.png",
-          "3": "63dec3ec-0691-463b-b091-a9d92be71c7f.png",
-          "4": "4c2a1972-cc22-4406-a553-197a4e4034db.png",
-          "5": "7fe96d06-b89d-49b6-97fa-48037b4b282c.png"
+          "1": "choice_images/6d334f90-111d-407b-a013-bcd21ea249d9.png",
+          "2": "choice_images/accb86bb-23f5-4bdf-a607-012044ee7c51.png",
+          "3": "choice_images/63dec3ec-0691-463b-b091-a9d92be71c7f.png",
+          "4": "choice_images/4c2a1972-cc22-4406-a553-197a4e4034db.png",
+          "5": "choice_images/7fe96d06-b89d-49b6-97fa-48037b4b282c.png"
         }
       },
       "image_type": "yes_artifact",

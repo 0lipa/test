@@ -30,7 +30,7 @@
         "ai_explanation": {
           "자료해설": "갈돌·갈판과 빗살무늬 토기, 농경과 정착 생활의 시작이라는 단서를 통해 '이 시대'는 신석기 시대임을 알 수 있다.",
           "선지해설": {
-            "1": "삼국 시대 우경",
+            "1": "삼국 시대",
             "2": "초기 철기 시대",
             "3": "청동기 시대",
             "4": "초기 철기 시대",
@@ -1263,7 +1263,7 @@
       },
       "image_type": "non_artifact",
       "typo_warnings": [],
-      "collection": 7
+      "collection": 6
     },
     "29": {
       "question": "(가) 인물에 대한 설명으로 옳은 것은?",
@@ -1932,7 +1932,7 @@
       },
       "image_type": "non_artifact",
       "typo_warnings": [],
-      "collection": 4
+      "collection": 7
     },
     "44": {
       "question": "다음 상황 이후에 일어난 사실로 옳은 것은?",
@@ -2202,7 +2202,7 @@
       },
       "image_type": "non_artifact",
       "typo_warnings": [],
-      "collection": 9
+      "collection": 6
     },
     "50": {
       "question": "(가) 지역에 대한 탐구 활동으로 가장 적절한 것은?",

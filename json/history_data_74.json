@@ -133,7 +133,7 @@
         "edited": "ef4174bc-bd02-4d67-b369-93625ec55b9f.png"
       },
       "image_type": "yes_artifact",
-      "collection": 1,
+      "collection": 2,
       "answer": "2",
       "typo_warnings": []
     },
@@ -449,7 +449,7 @@
         "edited": "7228c767-2679-4ba9-9cf0-90a6549b0e59.png"
       },
       "image_type": "traditional_person",
-      "collection": 3,
+      "collection": 4,
       "answer": "4",
       "typo_warnings": []
     },
@@ -1076,7 +1076,7 @@
         "edited": "7e162742-5deb-4b4d-921f-7567e40d4cf4.png"
       },
       "image_type": "yes_artifact",
-      "collection": 5,
+      "collection": 6,
       "answer": "3",
       "typo_warnings": []
     },
@@ -1121,7 +1121,7 @@
         "edited": "133aa19a-8709-4429-a7de-2da5921c21de.png"
       },
       "image_type": "yes_artifact",
-      "collection": 5,
+      "collection": 6,
       "answer": "5",
       "typo_warnings": []
     },
@@ -1659,7 +1659,7 @@
         "edited": "d3b36d0c-d193-48c3-956c-1a2bbffea99c.png"
       },
       "image_type": "yes_artifact",
-      "collection": 7,
+      "collection": 8,
       "answer": "4",
       "typo_warnings": []
     },
@@ -2247,7 +2247,7 @@
         "edited": "68e67d63-85c1-499c-9609-a9f58533d593.png"
       },
       "image_type": "non_artifact",
-      "collection": 5,
+      "collection": 7,
       "answer": "5",
       "typo_warnings": []
     }
