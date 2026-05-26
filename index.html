@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>한국사 기출 검토</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css?v=79">
 </head>
 <body>
   <header class="app-header">
@@ -13,7 +13,10 @@
         <h1>한국사 기출 검토</h1>
         <p id="statusText">회차 데이터를 확인하는 중입니다.</p>
       </div>
-      <div class="summary" id="summary"></div>
+      <div class="header-actions">
+        <button type="button" class="era-view-button" id="eraViewButton">시대별 보기</button>
+        <div class="summary" id="summary"></div>
+      </div>
     </div>
 
     <section class="control-section" aria-label="회차 선택">
@@ -21,8 +24,8 @@
       <div class="button-grid rounds" id="roundButtons"></div>
     </section>
 
-    <section class="control-section" aria-label="Collection 필터">
-      <h2>Collection</h2>
+    <section class="control-section" aria-label="시대 필터">
+      <h2>시대</h2>
       <div class="button-grid" id="collectionButtons"></div>
     </section>
 
@@ -39,6 +42,22 @@
     </section>
   </main>
 
-  <script src="script.js"></script>
+  <div class="modal-backdrop hidden" id="eraModal" role="dialog" aria-modal="true" aria-labelledby="eraModalTitle">
+    <section class="era-modal">
+      <header class="era-modal-header">
+        <div>
+          <h2 id="eraModalTitle">시대별 보기</h2>
+          <p id="eraModalSummary">전체 회차 데이터를 시대별로 모아봅니다.</p>
+        </div>
+        <button type="button" class="modal-close-button" id="eraModalClose" aria-label="닫기">×</button>
+      </header>
+      <div class="era-modal-body">
+        <nav class="era-tabs" id="eraTabs" aria-label="시대 선택"></nav>
+        <section class="era-content" id="eraContent"></section>
+      </div>
+    </section>
+  </div>
+
+  <script src="script.js?v=79"></script>
 </body>
 </html>
